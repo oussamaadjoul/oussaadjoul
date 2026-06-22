@@ -138,7 +138,6 @@ I teach courses in Mechanical and Industrial Engineering, including:
 - SolidWorks
 - CATIA
 - ANSYS
-- Abaqus
 - Minitab
 - Excel VBA
 
